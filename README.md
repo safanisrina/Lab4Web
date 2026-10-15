@@ -1,9 +1,9 @@
 # Praktikum 4 — CSS Layout
 
 ## Identitas
-- **Nama:** [Nama Kamu]
-- **Kelas:** [Kelas Kamu]
-- **Mata Kuliah:** Pemrograman Web
+- Nama: shafa Nisrina
+-Kelas: I251D
+- Mata Kuliah:Pemrograman Web
 
 ## Deskripsi
 Praktikum 4 membahas penggunaan CSS untuk mengatur tata letak halaman web. Pada praktikum ini, dibuat halaman HTML dan CSS untuk mempelajari penggunaan properti `float`, `clear`, serta penyusunan layout yang terdiri dari header, navigasi, konten utama, sidebar, dan footer.
